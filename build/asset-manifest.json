@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Face_Recognition/static/css/main.0b031e90.css",
+    "main.js": "/Face_Recognition/static/js/main.26548ff9.js",
+    "static/js/453.02e53410.chunk.js": "/Face_Recognition/static/js/453.02e53410.chunk.js",
+    "static/media/mj.png": "/Face_Recognition/static/media/mj.34e3ba778ed156f8f544.png",
+    "static/media/sp.png": "/Face_Recognition/static/media/sp.60aab213adf0b87faa52.png",
+    "static/media/om.png": "/Face_Recognition/static/media/om.3d1acb675647e04b1458.png",
+    "static/media/av.png": "/Face_Recognition/static/media/av.838ac3617af3677698a2.png",
+    "static/media/intro.png": "/Face_Recognition/static/media/intro.11351cda138431458cab.png",
+    "static/media/sp1.png": "/Face_Recognition/static/media/sp1.1480acb732a0704369ff.png",
+    "static/media/test.png": "/Face_Recognition/static/media/test.c3204562d37ca20d5c0e.png",
+    "static/media/image.png": "/Face_Recognition/static/media/image.ccc1d5696231d533c820.png",
+    "static/media/image2.png": "/Face_Recognition/static/media/image2.3cad79cdd37b910bf2a8.png",
+    "static/media/ar.png": "/Face_Recognition/static/media/ar.a36afaccadea71d84f05.png",
+    "index.html": "/Face_Recognition/index.html",
+    "main.0b031e90.css.map": "/Face_Recognition/static/css/main.0b031e90.css.map",
+    "main.26548ff9.js.map": "/Face_Recognition/static/js/main.26548ff9.js.map",
+    "453.02e53410.chunk.js.map": "/Face_Recognition/static/js/453.02e53410.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b031e90.css",
+    "static/js/main.26548ff9.js"
+  ]
+}
