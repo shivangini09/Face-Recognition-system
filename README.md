@@ -19,7 +19,7 @@
 - They have the trained models saved.
 - We use these trained models in the demo code to deploy an ensemble of all the models trained by the team.
 
-## Ensemble_Learning_Rough.ipynb
+## Ensemble_Learning_Rough.ipynb:
 - This contains the pre training model that contains model trained on all 10,000 records
 
 ## SVM Classifier
