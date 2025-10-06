@@ -22,7 +22,7 @@
 ## Ensemble_Learning_Rough.ipynb:
 - This contains the pre training model that contains model trained on all 10,000 records
 
-## SVM Classifier
+## SVM Classifier:
 - It contains all the data and files related to SVM
 
 ## standarscaler.joblib
