@@ -3,7 +3,7 @@
 - hog_95:contains concatenated features with only pca of 0.95 applied on hog features
 - hog_99:contains concatenated features with only pca of 0.99 applied on hog features
 
-## Demo_Code.ipynb
+## Demo_Code.ipynb:
 - This file contains the demo code of the project
 - It contains the ensemble of classifiers and the another feature that helps in capturing similarities between any two given images
 
